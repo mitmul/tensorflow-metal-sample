@@ -1,4 +1,6 @@
-# learn-tensorflow-metal
+# tensorflow-metal-sample
+
+Try to use M1 Max GPU for deep learning in Tensorflow-Metal.
 
 ## Environment setup
 
